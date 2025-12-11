@@ -55,10 +55,10 @@ A comprehensive, automated pipeline for processing 16S rRNA amplicon sequencing 
 
 ```bash
 # Make script executable
-chmod +x qiime2_pipeline.sh
+chmod +x QIIME2Pipeline.sh
 
 # Run the pipeline
-./qiime2_pipeline.sh
+./QIIME2Pipeline.sh
 ```
 
 ## 📊 Outputs
